@@ -1,0 +1,1054 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Table>
+  <!-- Staggered Step Sequences -->
+  <!-- Line 972 -->
+
+  <!-- Form Load Launchers -->
+  <!-- Line 904 -->
+
+  <!-- Runtime Play Amount Limits -->
+  <!-- Line 63 -->
+
+  <!-- BBR Start Amount -->
+  <decBBRStartAmount>
+    <LimitAmount>0.02</LimitAmount>
+  </decBBRStartAmount>
+
+  <!-- Sequence Strategy -->
+  <decSequenceStrategy>
+    <LimitAmount>0.02</LimitAmount>
+  </decSequenceStrategy>
+
+  <!-- Chopper Start Amount -->
+  <decChopperStartAmount>
+    <LimitAmount>0.02</LimitAmount>
+  </decChopperStartAmount>
+
+  <!-- Sequencers Round Counter Limit Amount -->
+  <intRoundCounterLimitAmount>
+    <LimitAmount>100</LimitAmount>
+  </intRoundCounterLimitAmount>
+
+  <!-- Round Counter BBR Limit Amount -->
+  <intBBRRoundCounterLimitAmount>
+    <LimitAmount>100</LimitAmount>
+  </intBBRRoundCounterLimitAmount>
+
+  <!-- Round Counter Chop Limit Amount -->
+  <intChopRoundCounterLimitAmount>
+    <LimitAmount>100</LimitAmount>
+  </intChopRoundCounterLimitAmount>
+
+  <!-- Chop Loss Count -->
+  <intChopCountLimitAmount>
+    <LimitAmount>10</LimitAmount>
+  </intChopCountLimitAmount>
+
+  <!-- BBR Loss Count -->
+  <intBBRLossCountLimitAmount>
+    <LimitAmount>10</LimitAmount>
+  </intBBRLossCountLimitAmount>
+
+  <!-- Sequencer Loss Count -->
+  <intSequLossCountLimitAmount>
+    <LimitAmount>10</LimitAmount>
+  </intSequLossCountLimitAmount>
+
+  <intOneThirdLimitAmount>
+    <LimitAmount>18</LimitAmount>
+  </intOneThirdLimitAmount>
+
+  <!-- Chopper Type Round Count -->
+  <intChopperTypeRoundCounter>
+    <LimitAmount>2</LimitAmount>
+  </intChopperTypeRoundCounter>
+
+  <!-- Runtime Play Amount Limits -->
+  <intRuntimePlayAmountSequBBR>   <!-- SequBBR -->
+    <LimitAmount>9</LimitAmount>
+  </intRuntimePlayAmountSequBBR>
+
+  <intRuntimePlayAmountSequ1>     <!--Sequencer1 -->
+    <LimitAmount>9</LimitAmount>  
+  </intRuntimePlayAmountSequ1>
+
+  <intRuntimePlayAmountBBR>       <!-- BBR -->
+    <LimitAmount>9</LimitAmount> 
+  </intRuntimePlayAmountBBR>
+
+  <intRuntimePlayAmountChopper>   <!-- Chopper -->
+    <LimitAmount>9</LimitAmount>
+  </intRuntimePlayAmountChopper>
+
+  <!-- Main Sequencer -->
+  <intRuntimePlayAmountSequSequencer>
+    <LimitAmount>6</LimitAmount>
+  </intRuntimePlayAmountSequSequencer>
+
+  <!-- BBR Type Round Count -->
+  <intBBRTypeRoundCounter>
+    <LimitAmount>2</LimitAmount>
+  </intBBRTypeRoundCounter>
+
+  <!-- Chopper Wait Type Round Count -->
+  <intChopperWaitTypeRoundCounter>
+    <LimitAmount>2</LimitAmount>
+  </intChopperWaitTypeRoundCounter>
+
+  <!-- Strategy1 Type Round Count -->
+  <intStrategy1TypeRoundCounter>
+    <LimitAmount>2</LimitAmount>
+  </intStrategy1TypeRoundCounter>
+
+  <intTwoThirdLimitAmount>
+    <LimitAmount>8</LimitAmount>
+  </intTwoThirdLimitAmount>
+
+  <intColumnLimit>
+    <LimitAmount>18</LimitAmount>
+  </intColumnLimit>
+
+  <intRealDozenLimitAmount>
+    <LimitAmount>17</LimitAmount>
+  </intRealDozenLimitAmount>
+
+  <intRealDozenShortLimitAmount>
+    <LimitAmount>13</LimitAmount>
+  </intRealDozenShortLimitAmount>
+
+  <intBoundRandomized>
+    <LimitAmount>16</LimitAmount>
+  </intBoundRandomized>
+
+  <intWheelSingleDozenLimitAmount>
+    <LimitAmount>19</LimitAmount>
+  </intWheelSingleDozenLimitAmount>
+
+  <intWheelTwoDozenLimitAmount>
+    <LimitAmount>9</LimitAmount>
+  </intWheelTwoDozenLimitAmount>
+
+  <intWheelTwoDozenSumLimitAmount>
+    <LimitAmount>16</LimitAmount>
+  </intWheelTwoDozenSumLimitAmount>
+
+  <intDaisyPatternLimitAmount>
+    <LimitAmount>12</LimitAmount>
+  </intDaisyPatternLimitAmount>
+
+  <intCamelPatternLimitAmount>
+    <LimitAmount>14</LimitAmount>
+  </intCamelPatternLimitAmount>
+
+  <intChessPatternLimitAmount>
+    <LimitAmount>14</LimitAmount>
+  </intChessPatternLimitAmount>
+
+  <intBoundOneSide>
+    <LimitAmount>14</LimitAmount>
+  </intBoundOneSide>
+
+  <intBoundMixed>
+    <LimitAmount>14</LimitAmount>
+  </intBoundMixed>
+
+  <intBoundStructure>
+    <LimitAmount>14</LimitAmount>
+  </intBoundStructure>
+
+  <intBlockPatternLimitAmount>
+    <LimitAmount>16</LimitAmount>
+  </intBlockPatternLimitAmount>
+
+  <!-- Set Manually -->
+  <intLowerBoundLevel6>
+    <LimitAmount>14</LimitAmount>
+  </intLowerBoundLevel6>
+  <!--  -->
+
+  <intOpposingRegions>
+    <LimitAmount>14</LimitAmount>
+  </intOpposingRegions>
+
+  <intRandomizeLowerBound>
+    <LimitAmount>14</LimitAmount>
+  </intRandomizeLowerBound>
+
+  <intNeighborPlayUpperLimitAmount>
+    <LimitAmount>68</LimitAmount>
+  </intNeighborPlayUpperLimitAmount>
+
+  <!-- For the round track lower limit  -->
+  <intNeighborPlayLowerLimitAmount>
+    <LimitAmount>10</LimitAmount>
+  </intNeighborPlayLowerLimitAmount>
+
+  <intStreetsLimitAmount>
+    <LimitAmount>12</LimitAmount>
+  </intStreetsLimitAmount>
+
+  <intDoubleStreetsLimitAmount>
+    <LimitAmount>12</LimitAmount>
+  </intDoubleStreetsLimitAmount>
+
+  <intCenteredDoubleStreetsLimitAmount>
+    <LimitAmount>12</LimitAmount>
+  </intCenteredDoubleStreetsLimitAmount>
+
+  <intLinePlayLimitAmount>
+    <LimitAmount>4</LimitAmount>
+  </intLinePlayLimitAmount>
+
+  <!--  -->
+
+  <!-- Marker Gap 20 -->
+  <intSetYellowMarker4567LimitAmount>
+    <LimitAmount>4</LimitAmount>
+  </intSetYellowMarker4567LimitAmount>
+
+  <!-- Marker Gap 15 -->
+  <intSetYellowMarker456LimitAmount>
+    <LimitAmount>5</LimitAmount>
+  </intSetYellowMarker456LimitAmount>
+
+  <!-- Marker Closed Gap 20 -->
+  <intSetYellowMarkerClosed20LimitAmount>
+    <LimitAmount>4</LimitAmount>
+  </intSetYellowMarkerClosed20LimitAmount>
+
+  <!-- Marker Close Gap 15 -->
+  <intSetYellowMarkerClosed15LimitAmount>
+    <LimitAmount>5</LimitAmount>
+  </intSetYellowMarkerClosed15LimitAmount>
+
+  <!--  -->
+
+  <!-- Regular Gap 20 -->
+  <intWheelGapLimitAmount>
+    <LimitAmount>12</LimitAmount>
+  </intWheelGapLimitAmount>
+
+  <!-- Regular Gap 15 -->
+  <intWheelGap456LimitAmount>
+    <LimitAmount>19</LimitAmount>
+  </intWheelGap456LimitAmount>
+
+  <!-- Close Gap 20-->
+  <intWheelGapClose20LimitAmount>
+    <LimitAmount>12</LimitAmount>
+  </intWheelGapClose20LimitAmount>
+
+  <!-- Close Gap 15-->
+  <intWheelGapClose15LimitAmount>
+    <LimitAmount>19</LimitAmount>
+  </intWheelGapClose15LimitAmount>
+
+  <!--  -->
+
+  <!-- Pattern AB-->
+  <intPatternABLimitAmount>
+    <LimitAmount>12</LimitAmount>
+  </intPatternABLimitAmount>
+
+  <!-- Limit Diff Amounts-->
+  <intWheel20LimitAmountSetDiff>
+    <LimitAmount>2</LimitAmount>
+  </intWheel20LimitAmountSetDiff>
+
+  <intWheel15LimitAmountSetDiff>
+    <LimitAmount>3</LimitAmount>
+  </intWheel15LimitAmountSetDiff>
+
+  <!-- Green Button Marker-->
+  <intGreenButtonMarkerAmount>
+    <LimitAmount>7</LimitAmount>
+  </intGreenButtonMarkerAmount>
+
+  <intGreenButton2MarkerAmount>
+    <LimitAmount>7</LimitAmount>
+  </intGreenButton2MarkerAmount>
+
+  <decPermutationMultiplier>
+    <LimitAmount>0.05</LimitAmount>
+  </decPermutationMultiplier>
+
+  <!-- Vertical Splits Limit-->
+  <intVerticalSplitsLimitAmount>
+    <LimitAmount>5</LimitAmount>
+  </intVerticalSplitsLimitAmount>
+
+  <!-- Chumba Limit-->
+  <intChumbaDoubleStreetLimitAmount>
+    <LimitAmount>5</LimitAmount>
+  </intChumbaDoubleStreetLimitAmount>
+
+  <!-- Chumba Low Counter-->
+  <intChumbaLowLimit>
+    <LimitAmount>2</LimitAmount>
+  </intChumbaLowLimit>
+
+  <!-- Chumba High Counter-->
+  <intChumbaHighLimit>
+    <LimitAmount>0</LimitAmount>
+  </intChumbaHighLimit>
+
+  <!-- Split Column Limit-->
+  <intSplitColumnLimitAmount>
+    <LimitAmount>9</LimitAmount>
+  </intSplitColumnLimitAmount>
+
+  <!-- Split Column 4 counter Limit-->
+  <intSplitColumnFourCounterLimitAmount>
+    <LimitAmount>4</LimitAmount>
+  </intSplitColumnFourCounterLimitAmount>
+
+  <!-- Split Column 5 counter Limit-->
+  <intSplitColumnFiveCounterLimitAmount>
+    <LimitAmount>4</LimitAmount>
+  </intSplitColumnFiveCounterLimitAmount>
+
+  <!-- Row Count Limit-->
+  <intRowCountLimitAmount>
+    <LimitAmount>9</LimitAmount>
+  </intRowCountLimitAmount>
+
+  <!-- Sub Row Count Limit Use for Brady Splits -->
+  <intRowCountSubLimitAmount>
+    <LimitAmount>6</LimitAmount>
+  </intRowCountSubLimitAmount>
+
+  <!-- Street Attack 1st Limit-->
+  <intDoubleStreetAttackLimitAmount>
+    <LimitAmount>16</LimitAmount>
+  </intDoubleStreetAttackLimitAmount>
+
+  <!-- Street Attack 2nd Limit-->
+  <intDoubleStreetAttackSecondLimitAmount>
+    <LimitAmount>16</LimitAmount>
+  </intDoubleStreetAttackSecondLimitAmount>
+
+  <!-- Street Attack 3rd Limit-->
+  <intDoubleStreetAttackThirdLimitAmount>
+    <LimitAmount>18</LimitAmount>
+  </intDoubleStreetAttackThirdLimitAmount>
+
+  <!-- Special Limit-->
+  <intSpecialLimitAmount>
+    <LimitAmount>16</LimitAmount>
+  </intSpecialLimitAmount>
+
+  <!-- DoubleStreetAttackAllTotals Limit Amount 1 -->
+  <intDoubleStreetAttackAllTotalsLimitAmount1>
+    <LimitAmount>26</LimitAmount>
+  </intDoubleStreetAttackAllTotalsLimitAmount1>
+
+  <!-- DoubleStreetAttackAllTotals Limit Amount 2 -->
+  <intDoubleStreetAttackAllTotalsLimitAmount2>
+    <LimitAmount>16</LimitAmount>
+  </intDoubleStreetAttackAllTotalsLimitAmount2>
+
+  <!-- DoubleStreetAttackAllTotals Limit Amount 3 -->
+  <intDoubleStreetAttackAllTotalsLimitAmount3>
+    <LimitAmount>16</LimitAmount>
+  </intDoubleStreetAttackAllTotalsLimitAmount3>
+
+  <!-- Track Check Limit Amount -->
+  <intTrackCheckLimitAmount>
+    <LimitAmount>72</LimitAmount>
+  </intTrackCheckLimitAmount>
+
+  <!-- Pocket Distance Limit Amount -->
+  <!-- Divisible by 7 = 4 passes but actual 3 virtual losses. It starts with 1 -->
+  <intPocketDistanceLimitAmount>
+    <LimitAmount>20</LimitAmount>
+  </intPocketDistanceLimitAmount>
+
+  <intPocketDistanceLimitAmount2x8>
+    <LimitAmount>24</LimitAmount>
+  </intPocketDistanceLimitAmount2x8>
+
+  <intPocketDistanceLimitAmount2x82>
+    <LimitAmount>24</LimitAmount>
+  </intPocketDistanceLimitAmount2x82>
+
+  <intPocketDistanceLimitAmount2x83>
+    <LimitAmount>24</LimitAmount>
+  </intPocketDistanceLimitAmount2x83>
+
+  <!-- Womple Around -->
+  <intWompleAroundLimitAmount>
+    <LimitAmount>9</LimitAmount>
+  </intWompleAroundLimitAmount>
+
+  <!-- Rumple -->
+  <intRumpleLimitAmount>
+    <LimitAmount>9</LimitAmount>
+  </intRumpleLimitAmount>
+
+  <intAllTopsLimitAmount>
+    <LimitAmount>16</LimitAmount>
+  </intAllTopsLimitAmount>
+
+  <!-- Streak Counter -->
+  <intStreakLimitAmount>
+    <LimitAmount>8</LimitAmount>
+  </intStreakLimitAmount>
+
+  <!-- Streak Total Counter -->
+  <intStreakTotalLimitAmount>
+    <LimitAmount>16</LimitAmount>
+  </intStreakTotalLimitAmount>
+
+  <!-- GoBack Counter -->
+  <intGoBackLimitAmount>
+    <LimitAmount>5</LimitAmount>
+  </intGoBackLimitAmount>
+
+  <!-- DT Channel -->
+  <intDTChannelLimitAmount>
+    <LimitAmount>14</LimitAmount>
+  </intDTChannelLimitAmount>
+
+  <!-- Color Counters -->
+  <!-- SuperV 18 Yellow Marker Counter -->
+  <intSuperV18YellowMarkerCounterLimitAmount>
+    <LimitAmount>5</LimitAmount>
+  </intSuperV18YellowMarkerCounterLimitAmount>
+
+  <!-- SuperV 18 Marker Counter -->
+  <intSuperV18BlueMarkerCounterLimitAmount>
+    <LimitAmount>6</LimitAmount>
+  </intSuperV18BlueMarkerCounterLimitAmount>
+
+  <!-- SuperV All Blue Marker Counter -->
+  <intSuperVBlueMarkerCounterLimitAmount>
+    <LimitAmount>6</LimitAmount>
+  </intSuperVBlueMarkerCounterLimitAmount>
+
+  <!-- SuperV 18 Red Blue Marker Alert -->
+  <intSuperV18RedBlueMarkerCounterAlert>
+    <LimitAmount>9</LimitAmount>
+  </intSuperV18RedBlueMarkerCounterAlert>
+
+  <!-- SuperV Blue Max Cap -->
+  <intSuperVBlueLimitAmountMaxCap>
+    <LimitAmount>7</LimitAmount>
+  </intSuperVBlueLimitAmountMaxCap>
+
+  <!-- For SuperV 18 red background -->
+  <!-- SuperV 18 Red Marker Counter -->
+  <intSuperV18RedMarkerCounterLimitAmount>
+    <LimitAmount>8</LimitAmount>
+  </intSuperV18RedMarkerCounterLimitAmount>
+  <!-- // -->
+
+
+  <!-- SuperV 24 Yellow Marker Counter -->
+  <intSuperV24YellowMarkerCounterLimitAmount>
+    <LimitAmount>6</LimitAmount>
+  </intSuperV24YellowMarkerCounterLimitAmount>
+
+
+  <!-- SuperV 18 Max -->
+  <!-- SuperV 18 Augmented Gap Max -->
+  <intSuperV18AugGapLimitAmountMax>
+    <LimitAmount>16</LimitAmount>
+  </intSuperV18AugGapLimitAmountMax>
+
+  <!-- SuperV 18 Closed Gap Max -->
+  <intSuperV18ClosedLimitAmountMax>
+    <LimitAmount>16</LimitAmount>
+  </intSuperV18ClosedLimitAmountMax>
+
+  <!-- SuperV 18 Reg Gap Max -->
+  <intSuperV18GapLimitAmountMax>
+    <LimitAmount>16</LimitAmount>
+  </intSuperV18GapLimitAmountMax>
+
+  <!-- SuperV 18 Split Max -->
+  <intSuperV18SplitLimitAmountMax>
+    <LimitAmount>16</LimitAmount>
+  </intSuperV18SplitLimitAmountMax>
+
+  <!-- SuperV 18 Max Cap -->
+  <intSuperV18LimitAmountMaxCap>
+    <LimitAmount>7</LimitAmount>
+  </intSuperV18LimitAmountMaxCap>
+
+  <!-- SuperV 24 Max -->
+  <!-- SuperV 24 Augmented Gap Max -->
+  <intSuperV24AugGapLimitAmountMax>
+    <LimitAmount>12</LimitAmount>
+  </intSuperV24AugGapLimitAmountMax>
+
+  <!-- SuperV 24 Closed Max -->
+  <intSuperV24ClosedLimitAmountMax>
+    <LimitAmount>12</LimitAmount>
+  </intSuperV24ClosedLimitAmountMax>
+
+  <!-- SuperV 12 Closed Max -->
+  <intSuperV12ClosedLimitAmountMax>
+    <LimitAmount>25</LimitAmount>
+  </intSuperV12ClosedLimitAmountMax>
+
+  <!-- SuperV 24 Reg Gap Max -->
+  <intSuperV24GapLimitAmountMax>
+    <LimitAmount>12</LimitAmount>
+  </intSuperV24GapLimitAmountMax>
+
+  <!-- SuperV 24 Split Max -->
+  <intSuperV24SplitLimitAmountMax>
+    <LimitAmount>12</LimitAmount>
+  </intSuperV24SplitLimitAmountMax>
+
+  <!-- SuperV 24 Max Cap -->
+  <intSuperV24LimitAmountMaxCap>
+    <LimitAmount>7</LimitAmount>
+  </intSuperV24LimitAmountMaxCap>
+
+  <!-- SuperV Open Form X -->
+  <!-- changed from -620 -->
+  <intSuperVOpenFormX>
+    <LimitAmount>-1250</LimitAmount>
+  </intSuperVOpenFormX>
+
+  <!-- SuperV Open Form Y -->
+  <intSuperVOpenFormY>
+    <LimitAmount>90</LimitAmount>
+  </intSuperVOpenFormY>
+
+  <!-- SuperV Dialog Location X -->
+  <!-- Pop up table -->
+  <!-- 650 and470 are the X locations  -->
+  <intSuperVDialogLocationX>
+    <LimitAmount>645</LimitAmount>
+  </intSuperVDialogLocationX>
+
+  <!-- SuperV Dialog Location Y -->
+  <intSuperVDialogLocationY>
+    <LimitAmount>140</LimitAmount>
+  </intSuperVDialogLocationY>
+
+  <!--                          -->
+
+  <!-- Super V Yellow Markers -->
+  <!-- SuperV 18 Augmented Gap Yellow Marker -->
+  <intSuperV18AugGapYellowMarker>
+    <LimitAmount>3</LimitAmount>
+  </intSuperV18AugGapYellowMarker>
+
+  <!-- SuperV 18 Closed Gap Yellow Marker -->
+  <intSuperV18ClosedYellowMarker>
+    <LimitAmount>3</LimitAmount>
+  </intSuperV18ClosedYellowMarker>
+
+  <!-- SuperV 18 Reg Gap Yellow Marker -->
+  <intSuperV18GapYellowMarker>
+    <LimitAmount>3</LimitAmount>
+  </intSuperV18GapYellowMarker>
+
+  <!-- SuperV 18 Split Yellow Marker -->
+  <intSuperV18SplitYellowMarker>
+    <LimitAmount>3</LimitAmount>
+  </intSuperV18SplitYellowMarker>
+
+  <!-- SuperV 24 Augmented Gap Yellow Marker -->
+  <intSuperV24AugGapYellowMarker>
+    <LimitAmount>3</LimitAmount>
+  </intSuperV24AugGapYellowMarker>
+
+  <!-- SuperV 24 Closed Yellow Marker -->
+  <intSuperV24ClosedYellowMarker>
+    <LimitAmount>3</LimitAmount>
+  </intSuperV24ClosedYellowMarker>
+
+  <!-- SuperV 12 Closed Yellow Marker -->
+  <intSuperV12ClosedYellowMarker>
+    <LimitAmount>6</LimitAmount>
+  </intSuperV12ClosedYellowMarker>
+
+  <!-- SuperV 24 Reg Gap Yellow Marker -->
+  <intSuperV24GapYellowMarker>
+    <LimitAmount>3</LimitAmount>
+  </intSuperV24GapYellowMarker>
+
+  <!-- SuperV 24 Split Yellow Marker -->
+  <intSuperV24SplitYellowMarker>
+    <LimitAmount>3</LimitAmount>
+  </intSuperV24SplitYellowMarker>
+
+  <!-- Super V Blue Markers -->
+  <!-- SuperV 18 Augmented Gap Blue Marker -->
+  <intSuperV18AugGapBlueMarker>
+    <LimitAmount>6</LimitAmount>
+  </intSuperV18AugGapBlueMarker>
+
+  <!-- SuperV 18 Closed Gap Blue Marker -->
+  <intSuperV18ClosedBlueMarker>
+    <LimitAmount>6</LimitAmount>
+  </intSuperV18ClosedBlueMarker>
+
+  <!-- SuperV 18 Reg Gap Blue Marker -->
+  <intSuperV18GapBlueMarker>
+    <LimitAmount>6</LimitAmount>
+  </intSuperV18GapBlueMarker>
+
+  <!-- SuperV 18 Split Blue Marker -->
+  <intSuperV18SplitBlueMarker>
+    <LimitAmount>6</LimitAmount>
+  </intSuperV18SplitBlueMarker>
+
+  <!-- SuperV 12 Color Counters -->
+  <!-- SuperV 12 Yellow Marker Counter -->
+  <intSuperV12YellowMarkerCounterLimitAmount>
+    <LimitAmount>20</LimitAmount>
+  </intSuperV12YellowMarkerCounterLimitAmount>
+
+  <intSuperV12BlueMarkerCounterLimitAmount>
+    <LimitAmount>6</LimitAmount>
+  </intSuperV12BlueMarkerCounterLimitAmount>
+
+  <!-- SuperV  -->
+  <!-- SuperV 24 Augmented Gap Blue Marker -->
+  <intSuperV24AugGapBlueMarker>
+    <LimitAmount>6</LimitAmount>
+  </intSuperV24AugGapBlueMarker>
+
+  <!-- main one to play -->
+  <!-- SuperV 24 Closed Blue Marker -->
+  <intSuperV24ClosedBlueMarker>
+    <LimitAmount>3</LimitAmount>
+  </intSuperV24ClosedBlueMarker>
+
+  <!-- SuperV 12 Closed Blue Marker -->
+  <intSuperV12ClosedBlueMarker>
+    <LimitAmount>8</LimitAmount>
+  </intSuperV12ClosedBlueMarker>
+
+  <!-- SuperV 24 Reg Gap Blue Marker -->
+  <intSuperV24GapBlueMarker>
+    <LimitAmount>6</LimitAmount>
+  </intSuperV24GapBlueMarker>
+
+  <!-- SuperV 24 Reg Gap Blue Marker -->
+  <intSuperV24SplitBlueMarker>
+    <LimitAmount>6</LimitAmount>
+  </intSuperV24SplitBlueMarker>
+
+  <!-- SuperV 2 -->
+  <!-- SuperV 24 Augmented Gap2 Blue Marker -->
+  <intSuperV24AugGap2BlueMarker>
+    <LimitAmount>6</LimitAmount>
+  </intSuperV24AugGap2BlueMarker>
+
+  <!-- SuperV 24 Closed2 Blue Marker -->
+  <intSuperV24Closed2BlueMarker>
+    <LimitAmount>6</LimitAmount>
+  </intSuperV24Closed2BlueMarker>
+
+  <!-- SuperV 24 Reg Gap2 Blue Marker -->
+  <intSuperV24Gap2BlueMarker>
+    <LimitAmount>6</LimitAmount>
+  </intSuperV24Gap2BlueMarker>
+
+  <!-- SuperV 24 Spit2 Blue Marker -->
+  <intSuperV24Split2BlueMarker>
+    <LimitAmount>6</LimitAmount>
+  </intSuperV24Split2BlueMarker>
+
+  <!-- Green Limits -->
+  <!-- Super V Green Markers -->
+  <!-- SuperV 18 Augmented Gap Green Marker -->
+  <intSuperV18AugGapGreenMarker>
+    <LimitAmount>7</LimitAmount>
+  </intSuperV18AugGapGreenMarker>
+
+  <!-- SuperV 18 Closed Gap Green Marker -->
+  <intSuperV18ClosedGreenMarker>
+    <LimitAmount>7</LimitAmount>
+  </intSuperV18ClosedGreenMarker>
+
+  <!-- SuperV 18 Reg Gap Green Marker -->
+  <intSuperV18GapGreenMarker>
+    <LimitAmount>7</LimitAmount>
+  </intSuperV18GapGreenMarker>
+
+  <!-- SuperV 18 Split Green Marker -->
+  <intSuperV18SplitGreenMarker>
+    <LimitAmount>7</LimitAmount>
+  </intSuperV18SplitGreenMarker>
+
+  <!-- SuperV  -->
+  <!-- SuperV 24 Augmented Gap Green Marker -->
+  <intSuperV24AugGapGreenMarker>
+    <LimitAmount>6</LimitAmount>
+  </intSuperV24AugGapGreenMarker>
+
+  <!-- SuperV 24 Closed Green Marker -->
+  <intSuperV24ClosedGreenMarker>
+    <LimitAmount>6</LimitAmount>
+  </intSuperV24ClosedGreenMarker>
+
+  <!-- SuperV 12 Closed Green Marker -->
+  <intSuperV12ClosedGreenMarker>
+    <LimitAmount>17</LimitAmount>
+  </intSuperV12ClosedGreenMarker>
+
+  <!-- SuperV 24 Reg Gap Green Marker -->
+  <intSuperV24GapGreenMarker>
+    <LimitAmount>6</LimitAmount>
+  </intSuperV24GapGreenMarker>
+
+  <!-- SuperV 24 Reg Gap Green Marker -->
+  <intSuperV24SplitGreenMarker>
+    <LimitAmount>6</LimitAmount>
+  </intSuperV24SplitGreenMarker>
+
+  <!-- SuperV 2 -->
+  <!-- SuperV 24 Augmented Gap2 Green Marker -->
+  <intSuperV24AugGap2GreenMarker>
+    <LimitAmount>7</LimitAmount>
+  </intSuperV24AugGap2GreenMarker>
+
+  <!-- SuperV 24 Closed2 Green Marker -->
+  <intSuperV24Closed2GreenMarker>
+    <LimitAmount>7</LimitAmount>
+  </intSuperV24Closed2GreenMarker>
+
+  <!-- SuperV 24 Reg Gap2 Green Marker -->
+  <intSuperV24Gap2GreenMarker>
+    <LimitAmount>7</LimitAmount>
+  </intSuperV24Gap2GreenMarker>
+
+  <!-- SuperV 24 Spit2 Green Marker -->
+  <intSuperV24Split2GreenMarker>
+    <LimitAmount>7</LimitAmount>
+  </intSuperV24Split2GreenMarker>
+
+  <!-- SuperV 18 to show green -->
+  <!-- SuperV 18 Augmented Gap -->
+  <intSuperV18AugGapLimitAmount>
+    <LimitAmount>7</LimitAmount>
+  </intSuperV18AugGapLimitAmount>
+
+  <!-- SuperV 18 Closed Gap -->
+  <intSuperV18ClosedLimitAmount>
+    <LimitAmount>7</LimitAmount>
+  </intSuperV18ClosedLimitAmount>
+
+  <!-- SuperV 18 Reg Gap -->
+  <intSuperV18GapLimitAmount>
+    <LimitAmount>7</LimitAmount>
+  </intSuperV18GapLimitAmount>
+
+  <!-- SuperV 18 Split -->
+  <intSuperV18SplitLimitAmount>
+    <LimitAmount>7</LimitAmount>
+  </intSuperV18SplitLimitAmount>
+
+  <!-- SuperV 18 to show green Cap Maxs if you need to use -->
+  <!-- SuperV 18 Augmented Gap MaxCaps -->
+  <intSuperV18AugGapLimitAmountMaxCap>
+    <LimitAmount>7</LimitAmount>
+  </intSuperV18AugGapLimitAmountMaxCap>
+
+  <!-- SuperV 18 Closed Gap MaxCap -->
+  <intSuperV18ClosedLimitAmountMaxCap>
+    <LimitAmount>7</LimitAmount>
+  </intSuperV18ClosedLimitAmountMaxCap>
+
+  <!-- SuperV 18 Reg Gap MaxCap -->
+  <intSuperV18GapLimitAmountMaxCap>
+    <LimitAmount>6</LimitAmount>
+  </intSuperV18GapLimitAmountMaxCap>
+
+  <!-- SuperV 18 Split MaxCap -->
+  <intSuperV18SplitLimitAmountMaxCap>
+    <LimitAmount>6</LimitAmount>
+  </intSuperV18SplitLimitAmountMaxCap>
+
+  <!-- SuperV 24 to show green -->
+  <!-- SuperV 24 Augmented Gap -->
+  <intSuperV24AugGapLimitAmount>
+    <LimitAmount>6</LimitAmount>
+  </intSuperV24AugGapLimitAmount>
+
+  <!-- SuperV 24 Closed -->
+  <intSuperV24ClosedLimitAmount>
+    <LimitAmount>6</LimitAmount>
+  </intSuperV24ClosedLimitAmount>
+
+  <!-- SuperV 12 Closed -->
+  <intSuperV12ClosedLimitAmount>
+    <LimitAmount>6</LimitAmount>
+  </intSuperV12ClosedLimitAmount>
+
+  <!-- SuperV 24 Reg Gap -->
+  <intSuperV24GapLimitAmount>
+    <LimitAmount>7</LimitAmount>
+  </intSuperV24GapLimitAmount>
+
+  <!-- SuperV 24 Split -->
+  <intSuperV24SplitLimitAmount>
+    <LimitAmount>7</LimitAmount>
+  </intSuperV24SplitLimitAmount>
+
+  <!-- SuperV 24 to show green Cap Maxs if you need to use -->
+  <!-- SuperV 24 Augmented Gap MaxCap -->
+  <intSuperV24AugGapLimitAmountMaxCap>
+    <LimitAmount>7</LimitAmount>
+  </intSuperV24AugGapLimitAmountMaxCap>
+
+  <!-- SuperV 24 Closed Gap MaxCap -->
+  <intSuperV24ClosedLimitAmountMaxCap>
+    <LimitAmount>7</LimitAmount>
+  </intSuperV24ClosedLimitAmountMaxCap>
+
+  <!-- SuperV 12 Closed Gap MaxCap -->
+  <intSuperV12ClosedLimitAmountMaxCap>
+    <LimitAmount>25</LimitAmount>
+  </intSuperV12ClosedLimitAmountMaxCap>
+
+  <intSuperV12ClosedGreenLimitAmountMaxCap>
+    <LimitAmount>30</LimitAmount>
+  </intSuperV12ClosedGreenLimitAmountMaxCap>
+
+  <intSuperV12ClosedBlueLimitAmountMaxCap>
+    <LimitAmount>25</LimitAmount>
+  </intSuperV12ClosedBlueLimitAmountMaxCap>
+
+  <!-- SuperV 24 Reg Gap MaxCap -->
+  <intSuperV24GapLimitAmountMaxCap>
+    <LimitAmount>7</LimitAmount>
+  </intSuperV24GapLimitAmountMaxCap>
+
+  <!-- SuperV 24 Split MaxCap -->
+  <intSuperV24SplitLimitAmountMaxCap>
+    <LimitAmount>7</LimitAmount>
+  </intSuperV24SplitLimitAmountMaxCap>
+  <!--  -->
+
+  <!-- Channel Outside -->
+  <intChannelLimitAmount>
+    <LimitAmount>3</LimitAmount>
+  </intChannelLimitAmount>
+
+  <!-- SuperV V12 -->
+  <!-- SuperV V12 Yellow -->
+  <intSuperV12V12LimitAmountYellow>
+    <LimitAmount>14</LimitAmount>
+  </intSuperV12V12LimitAmountYellow>
+
+  <!-- SuperV V12 Blue -->
+  <!-- Low Indicater Alert -->
+  <intSuperV12V12LimitAmountBlue>
+    <LimitAmount>19</LimitAmount>
+  </intSuperV12V12LimitAmountBlue>
+
+  <!-- SuperV V12 Green -->
+  <intSuperV12V12LimitAmountGreen>
+    <LimitAmount>20</LimitAmount>
+  </intSuperV12V12LimitAmountGreen>
+  <!-- SuperV V12 Red -->
+  <intSuperV12V12LimitAmountRed>
+    <LimitAmount>21</LimitAmount>
+  </intSuperV12V12LimitAmountRed>
+  <!--  -->
+
+  <!-- SuperV Autopost -->
+  <!-- 0 = true -->
+  <!-- 1 = false -->
+  <IsSuperVAutoPost>
+    <LimitAmount>1</LimitAmount>
+  </IsSuperVAutoPost>
+
+  <!-- SuperV Show Color Markers on grid -->
+  <!-- 0 = true -->
+  <!-- 1 = false -->
+  <IsSuperVYellow>
+    <LimitAmount>0</LimitAmount>
+  </IsSuperVYellow>
+
+  <IsSuperVBlue>
+    <LimitAmount>0</LimitAmount>
+  </IsSuperVBlue>
+
+  <IsSuperVGreen>
+    <LimitAmount>0</LimitAmount>
+  </IsSuperVGreen>
+
+  <IsSuperVRed>
+    <LimitAmount>0</LimitAmount>
+  </IsSuperVRed>
+
+  <!-- SuperV Color Marker Alerts -->
+  <!-- 0 = true -->
+  <!-- 1 = false -->
+  <IsSuperVYellowAlert>
+    <LimitAmount>1</LimitAmount>
+  </IsSuperVYellowAlert>
+
+  <IsSuperVBlueAlert>
+    <LimitAmount>1</LimitAmount>
+  </IsSuperVBlueAlert>
+
+  <IsSuperVGreenAlert>
+    <LimitAmount>1</LimitAmount>
+  </IsSuperVGreenAlert>
+
+  <IsSuperVRedAlert>
+    <LimitAmount>0</LimitAmount>
+  </IsSuperVRedAlert>
+
+  <!-- Scratch -->
+  <!-- 0 = true -->
+  <!-- 1 = false -->
+  <IsFromScratch>
+    <LimitAmount>0</LimitAmount>
+  </IsFromScratch>
+
+  <!-- Open Chopper on Form1 Load -->
+  <!-- 0 = true -->
+  <!-- 1 = false -->
+  <IsChopperOpen>
+    <LimitAmount>0</LimitAmount>
+  </IsChopperOpen>
+
+  <!-- Open Sequencers on Form1 Load -->
+  <!-- 0 = true -->
+  <!-- 1 = false -->
+  <IsSequencersOpen>
+    <LimitAmount>0</LimitAmount>
+  </IsSequencersOpen>
+
+  <!-- Open BBR on Form1 Load -->
+  <!-- 0 = true -->
+  <!-- 1 = false -->
+  <IsBBROpen>
+    <LimitAmount>0</LimitAmount>
+  </IsBBROpen>
+
+  <!-- Open Launcher on Form1 Load -->
+  <!-- 0 = true -->
+  <!-- 1 = false -->
+  <IsLauncherOpen>
+    <LimitAmount>1</LimitAmount>
+  </IsLauncherOpen>
+
+  <!-- Meter Counter Alerts -->
+  <!-- 0 = true -->
+  <!-- 1 = false -->
+  <IsMeterCounterAlert04>
+    <LimitAmount>1</LimitAmount>
+  </IsMeterCounterAlert04>
+
+  <IsMeterCounterAlert05>
+    <LimitAmount>1</LimitAmount>
+  </IsMeterCounterAlert05>
+
+  <IsMeterCounterAlert06>
+    <LimitAmount>1</LimitAmount>
+  </IsMeterCounterAlert06>
+
+  <IsMeterCounterAlert07>
+    <LimitAmount>0</LimitAmount>
+  </IsMeterCounterAlert07>
+
+  <!-- Italian Tracker -->
+  <intItalianTracker>
+    <LimitAmount>3</LimitAmount>
+  </intItalianTracker>
+
+  <!-- Meter WonLoss Counter LimitAmount -->
+  <intMeterWonLossCounterLimitAmount>
+    <LimitAmount>2</LimitAmount>
+  </intMeterWonLossCounterLimitAmount>
+
+  <!-- Staggered Step Sequences -->
+  <!-- 0 = true -->
+  <!-- 1 = false -->
+
+  <!-- Sequ BBR -->
+  <IsStepSequBBRRedBlack>
+    <LimitAmount>0</LimitAmount>
+  </IsStepSequBBRRedBlack>
+
+  <IsStepSequBBRHighLow>
+    <LimitAmount>1</LimitAmount>
+  </IsStepSequBBRHighLow>
+
+  <IsStepSequBBREvenOdd>
+    <LimitAmount>1</LimitAmount>
+  </IsStepSequBBREvenOdd>
+
+  <!-- Sequ1 BBR -->
+  <IsStepSequenceSequencer1RedBlack>
+    <LimitAmount>0</LimitAmount>
+  </IsStepSequenceSequencer1RedBlack>
+
+  <IsStepSequenceSequencer1HighLow>
+    <LimitAmount>1</LimitAmount>
+  </IsStepSequenceSequencer1HighLow>
+
+  <IsStepSequenceSequencer1EvenOdd>
+    <LimitAmount>1</LimitAmount>
+  </IsStepSequenceSequencer1EvenOdd>
+
+  <!-- BBR -->
+  <IsStepBBRRedBlack>
+    <LimitAmount>0</LimitAmount>
+  </IsStepBBRRedBlack>
+
+  <IsStepBBRHighLow>
+    <LimitAmount>1</LimitAmount>
+  </IsStepBBRHighLow>
+
+  <IsStepBBREvenOdd>
+    <LimitAmount>1</LimitAmount>
+  </IsStepBBREvenOdd>  
+
+  <!--  -->
+
+  <IsStepSequenceSequencerRedBlack>
+    <LimitAmount>0</LimitAmount>
+  </IsStepSequenceSequencerRedBlack>
+
+  <IsStepSequenceSequencerHighLow>
+    <LimitAmount>1</LimitAmount>
+  </IsStepSequenceSequencerHighLow>
+
+  <IsStepSequenceSequencerEvenOdd>
+    <LimitAmount>1</LimitAmount>
+  </IsStepSequenceSequencerEvenOdd>
+
+  <!-- internal counter -->
+  <!-- End of sequencers warning -->
+  <internalNumberCountLimitAmount>
+    <LimitAmount>48</LimitAmount>
+  </internalNumberCountLimitAmount>
+
+  <intStreakCounterLimitAmount>
+    <LimitAmount>4</LimitAmount>
+  </intStreakCounterLimitAmount>
+
+  <!-- LossTotal Limit Amounts -->
+  <intLossTotalSequBBRLimitAmount>
+    <LimitAmount>9</LimitAmount>
+  </intLossTotalSequBBRLimitAmount>
+  
+   <intLossTotalSequ1LimitAmount>
+    <LimitAmount>9</LimitAmount>
+  </intLossTotalSequ1LimitAmount>
+
+  <intLossTotalBBRLimitAmount>
+    <LimitAmount>9</LimitAmount>
+  </intLossTotalBBRLimitAmount>
+
+  <intLossTotalSequencerLimitAmount>
+    <LimitAmount>9</LimitAmount>
+  </intLossTotalSequencerLimitAmount>
+
+  <intLossTotalChopperLimitAmount>
+    <LimitAmount>8</LimitAmount>
+  </intLossTotalChopperLimitAmount>
+</Table>

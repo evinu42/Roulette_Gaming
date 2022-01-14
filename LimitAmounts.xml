@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Table>
+  <intOneThirdLimitAmount>
+    <LimitAmount>15</LimitAmount>
+  </intOneThirdLimitAmount>
+
+  <intTwoThirdLimitAmount>
+    <LimitAmount>9</LimitAmount>
+  </intTwoThirdLimitAmount>
+
+  <intColumnLimit>
+    <LimitAmount>15</LimitAmount>
+  </intColumnLimit>
+
+  <intRealDozenLimitAmount>
+    <LimitAmount>15</LimitAmount>
+  </intRealDozenLimitAmount>
+
+  <intRealDozenShortLimitAmount>
+    <LimitAmount>15</LimitAmount>
+  </intRealDozenShortLimitAmount>
+
+  <intBoundRandomized>
+    <LimitAmount>10</LimitAmount>
+  </intBoundRandomized>
+
+  <intWheelSingleDozenLimitAmount>
+    <LimitAmount>15</LimitAmount>
+  </intWheelSingleDozenLimitAmount>
+
+  <intWheelTwoDozenLimitAmount>
+    <LimitAmount>5</LimitAmount>
+  </intWheelTwoDozenLimitAmount>
+
+  <intWheelTwoDozenSumLimitAmount>
+    <LimitAmount>11</LimitAmount>
+  </intWheelTwoDozenSumLimitAmount>
+
+  <intDaisyPatternLimitAmount>
+    <LimitAmount>5</LimitAmount>
+  </intDaisyPatternLimitAmount>
+
+  <intCamelPatternLimitAmount>
+    <LimitAmount>10</LimitAmount>
+  </intCamelPatternLimitAmount>
+
+  <intChessPatternLimitAmount>
+    <LimitAmount>10</LimitAmount>
+  </intChessPatternLimitAmount>
+
+  <intBoundOneSide>
+    <LimitAmount>10</LimitAmount>
+  </intBoundOneSide>
+
+  <intBoundMixed>
+    <LimitAmount>10</LimitAmount>
+  </intBoundMixed>
+
+  <intBoundStructure>
+    <LimitAmount>10</LimitAmount>
+  </intBoundStructure>
+
+  <intBlockPatternLimitAmount>
+    <LimitAmount>8</LimitAmount>
+  </intBlockPatternLimitAmount>
+
+  <!-- Set Manually -->
+  <intLowerBoundLevel6>
+    <LimitAmount>10</LimitAmount>
+  </intLowerBoundLevel6>
+  <!--  -->
+
+  <intOpposingRegions>
+    <LimitAmount>10</LimitAmount>
+  </intOpposingRegions>
+
+  <intRandomizeLowerBound>
+    <LimitAmount>10</LimitAmount>
+  </intRandomizeLowerBound>
+
+  <intNeighborPlayUpperLimitAmount>
+    <LimitAmount>48</LimitAmount>
+  </intNeighborPlayUpperLimitAmount>
+
+  <!-- For the round track lower limit  -->
+  <intNeighborPlayLowerLimitAmount>
+    <LimitAmount>20</LimitAmount>
+  </intNeighborPlayLowerLimitAmount>
+
+  <intStreetsLimitAmount>
+    <LimitAmount>10</LimitAmount>
+  </intStreetsLimitAmount>
+
+  <intDoubleStreetsLimitAmount>
+    <LimitAmount>10</LimitAmount>
+  </intDoubleStreetsLimitAmount>
+
+  <intCenteredDoubleStreetsLimitAmount>
+    <LimitAmount>10</LimitAmount>
+  </intCenteredDoubleStreetsLimitAmount>
+
+  <intVerticalSplitsLimitAmount>
+    <LimitAmount>5</LimitAmount>
+  </intVerticalSplitsLimitAmount>
+
+  <intLinePlayLimitAmount>
+    <LimitAmount>3</LimitAmount>
+  </intLinePlayLimitAmount>  
+
+  <!--  -->
+
+  <!-- Marker Gap 20 -->
+  <intSetYellowMarker4567LimitAmount>
+    <LimitAmount>4</LimitAmount>
+  </intSetYellowMarker4567LimitAmount>
+
+  <!-- Marker Gap 15 -->
+  <intSetYellowMarker456LimitAmount>
+    <LimitAmount>5</LimitAmount>
+  </intSetYellowMarker456LimitAmount>
+  
+  <!-- Marker Closed Gap 20 -->
+  <intSetYellowMarkerClosed20LimitAmount>
+    <LimitAmount>4</LimitAmount>
+  </intSetYellowMarkerClosed20LimitAmount>
+  
+  <!-- Marker Close Gap 15 -->
+  <intSetYellowMarkerClosed15LimitAmount>
+    <LimitAmount>5</LimitAmount>
+  </intSetYellowMarkerClosed15LimitAmount>  
+
+  <!--  -->
+
+  <!-- Regular Gap 20 -->
+  <intWheelGapLimitAmount>
+    <LimitAmount>6</LimitAmount>
+  </intWheelGapLimitAmount>
+  
+  <!-- Regular Gap 15 -->
+  <intWheelGap456LimitAmount>
+    <LimitAmount>17</LimitAmount>
+  </intWheelGap456LimitAmount>
+
+  <!-- Close Gap 20-->
+  <intWheelGapClose20LimitAmount>
+    <LimitAmount>6</LimitAmount>
+  </intWheelGapClose20LimitAmount>
+  
+  <!-- Close Gap 15-->
+  <intWheelGapClose15LimitAmount>
+    <LimitAmount>17</LimitAmount>
+  </intWheelGapClose15LimitAmount>
+
+  <!--  -->
+
+  <!-- Pattern AB-->
+  <intPatternABLimitAmount>
+    <LimitAmount>6</LimitAmount>
+  </intPatternABLimitAmount>  
+  
+  <!-- Limit Diff Amounts-->
+  <intWheel20LimitAmountSetDiff>
+    <LimitAmount>2</LimitAmount>
+  </intWheel20LimitAmountSetDiff>
+  
+  <intWheel15LimitAmountSetDiff>
+    <LimitAmount>3</LimitAmount>
+  </intWheel15LimitAmountSetDiff>
+
+  <!-- Chumba Limit-->
+  <intChumbaDoubleStreetLimitAmount>
+    <LimitAmount>4</LimitAmount>
+  </intChumbaDoubleStreetLimitAmount>
+  
+  <!-- Green Button Marker-->
+  <intGreenButtonMarkerAmount>
+    <LimitAmount>7</LimitAmount>
+  </intGreenButtonMarkerAmount>
+
+  <intGreenButton2MarkerAmount>
+    <LimitAmount>7</LimitAmount>
+  </intGreenButton2MarkerAmount>
+
+  <intSplitColumnLimitAmount>
+    <LimitAmount>6</LimitAmount>
+  </intSplitColumnLimitAmount>
+
+  <intRowCountLimitAmount>
+    <LimitAmount>4</LimitAmount>
+  </intRowCountLimitAmount>
+
+  <intRowCountSubLimitAmount>
+    <LimitAmount>3</LimitAmount>
+  </intRowCountSubLimitAmount>
+
+  <decBBRStartAmount>
+    <StartAmount>0.50</StartAmount>
+  </decBBRStartAmount>
+
+  <decPermutationMultiplier>
+    <StartAmount>0.05</StartAmount>
+  </decPermutationMultiplier>
+
+  <intDoubleStreetAttackLimitAmount>
+    <LimitAmount>7</LimitAmount>
+  </intDoubleStreetAttackLimitAmount>
+
+  <intDoubleStreetAttackSecondLimitAmount>
+    <LimitAmount>10</LimitAmount>
+  </intDoubleStreetAttackSecondLimitAmount>
+
+  <intDoubleStreetAttackThirdLimitAmount>
+    <LimitAmount>12</LimitAmount>
+  </intDoubleStreetAttackThirdLimitAmount>
+
+  <!-- Special Limit-->
+  <intSpecialLimitAmount>
+    <LimitAmount>7</LimitAmount>
+  </intSpecialLimitAmount>
+
+  <!-- DoubleStreetAttackAllTotals Limit Amount 1 -->
+  <intDoubleStreetAttackAllTotalsLimitAmount1>
+    <LimitAmount>26</LimitAmount>
+  </intDoubleStreetAttackAllTotalsLimitAmount1>
+
+  <!-- DoubleStreetAttackAllTotals Limit Amount 2 -->
+  <intDoubleStreetAttackAllTotalsLimitAmount2>
+    <LimitAmount>16</LimitAmount>
+  </intDoubleStreetAttackAllTotalsLimitAmount2>
+
+  <!-- DoubleStreetAttackAllTotals Limit Amount 3 -->
+  <intDoubleStreetAttackAllTotalsLimitAmount3>
+    <LimitAmount>12</LimitAmount>
+  </intDoubleStreetAttackAllTotalsLimitAmount3>
+
+  <!-- Track Check Limit Amount -->
+  <intTrackCheckLimitAmount>
+    <LimitAmount>21</LimitAmount>
+  </intTrackCheckLimitAmount>
+
+  <!-- Pocket Distance Limit Amount -->
+  <!-- Divisible by 7 = 4 passes but actual 3 virtual losses. It starts with 1 -->
+  <intPocketDistanceLimitAmount>
+    <LimitAmount>20</LimitAmount>
+  </intPocketDistanceLimitAmount>
+
+  <intPocketDistanceLimitAmount2x8>
+    <LimitAmount>6</LimitAmount>
+  </intPocketDistanceLimitAmount2x8>
+
+  <intPocketDistanceLimitAmount2x82>
+    <LimitAmount>6</LimitAmount>
+  </intPocketDistanceLimitAmount2x82>
+
+  <intPocketDistanceLimitAmount2x83>
+    <LimitAmount>6</LimitAmount>
+  </intPocketDistanceLimitAmount2x83>
+
+  <intWompleAroundLimitAmount>
+    <LimitAmount>2</LimitAmount>
+  </intWompleAroundLimitAmount>
+
+  <intRumpleLimitAmount>
+    <LimitAmount>3</LimitAmount>
+  </intRumpleLimitAmount>
+  
+  <intAllTopsLimitAmount>
+    <LimitAmount>6</LimitAmount>
+  </intAllTopsLimitAmount>
+
+  <intStreakLimitAmount>
+    <LimitAmount>5</LimitAmount>
+  </intStreakLimitAmount>
+
+  <!-- Streak Total Counter -->
+  <intStreakTotalLimitAmount>
+    <LimitAmount>7</LimitAmount>
+  </intStreakTotalLimitAmount>
+
+  <!-- GoBack Counter -->
+  <intGoBackLimitAmount>
+    <LimitAmount>5</LimitAmount>
+  </intGoBackLimitAmount>
+  
+  <!-- DT Channel -->
+  <intDTChannelLimitAmount>
+    <LimitAmount>5</LimitAmount>
+  </intDTChannelLimitAmount>
+
+  <!-- BBR Loss Count -->
+  <intBBRLossCountLimitAmount>
+    <LimitAmount>5</LimitAmount>
+  </intBBRLossCountLimitAmount>
+  
+</Table>

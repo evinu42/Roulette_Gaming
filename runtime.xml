@@ -1,0 +1,104 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<Table>
+
+<!-- Daily Start Amount -->
+<decDailyStartAmount>
+<LimitAmount>60.76</LimitAmount>
+</decDailyStartAmount>
+
+<!-- Current Amount -->
+<decCurrentAmount>
+<LimitAmount>60.76</LimitAmount>
+</decCurrentAmount>
+
+<!-- Multiplier -->
+<decMultiplierAmount>
+<LimitAmount>1.50</LimitAmount>
+</decMultiplierAmount>
+
+<!-- Hours -->
+<decHours>
+<LimitAmount>8.00</LimitAmount>
+</decHours>
+
+<!-- SiteName1 -->
+<SiteName1>
+<LimitAmount>1 Cent 1.25</LimitAmount>
+</SiteName1>
+
+<!-- SiteName2 -->
+<SiteName2>
+<LimitAmount>Black Majic 1.25</LimitAmount>
+</SiteName2>
+
+<!-- SiteName3 -->
+<SiteName3>
+<LimitAmount>Forecast Analisis</LimitAmount>
+</SiteName3>
+
+<!-- SiteName4 -->
+<SiteName4>
+<LimitAmount>MyBookie</LimitAmount>
+</SiteName4>
+
+<!-- SiteName5 -->
+<SiteName5>
+<LimitAmount></LimitAmount>
+</SiteName5>
+
+<!-- Daily Start Amount 1 -->
+<decDailyStartAmount1>
+<LimitAmount>87.97</LimitAmount>
+</decDailyStartAmount1>
+
+<!-- Daily Start Amount 2 -->
+<decDailyStartAmount2>
+<LimitAmount>1.33</LimitAmount>
+</decDailyStartAmount2>
+
+<!-- Daily Start Amount 3 -->
+<decDailyStartAmount3>
+<LimitAmount>0.00</LimitAmount>
+</decDailyStartAmount3>
+
+<!-- Daily Start Amount 4 -->
+<decDailyStartAmount4>
+<LimitAmount>0.00</LimitAmount>
+</decDailyStartAmount4>
+
+<!-- Daily Start Amount 5 -->
+<decDailyStartAmount5>
+<LimitAmount>0.00</LimitAmount>
+</decDailyStartAmount5>
+
+<!-- Daily Balance Amount 1 -->
+<decDailyBalanceAmount1>
+<LimitAmount>120.44</LimitAmount>
+</decDailyBalanceAmount1>
+
+<!-- Daily Balance Amount 2 -->
+<decDailyBalanceAmount2>
+<LimitAmount>1.33</LimitAmount>
+</decDailyBalanceAmount2>
+
+<!-- Daily Balance Amount 3 -->
+<decDailyBalanceAmount3>
+<LimitAmount>0.00</LimitAmount>
+</decDailyBalanceAmount3>
+
+<!-- Daily Balance Amount 4 -->
+<decDailyBalanceAmount4>
+<LimitAmount>0.00</LimitAmount>
+</decDailyBalanceAmount4>
+
+<!-- Daily Balance Amount 5 -->
+<decDailyBalanceAmount5>
+<LimitAmount>0.00</LimitAmount>
+</decDailyBalanceAmount5>
+
+<!-- Session -->
+<decSession>
+<LimitAmount>60.76</LimitAmount>
+</decSession>
+
+</Table>
